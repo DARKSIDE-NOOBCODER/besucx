@@ -1,2 +1,2 @@
-# shinex
-Telegram personal assistant robot 😎💢💚
+# sucx
+Management bot like 
